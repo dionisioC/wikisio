@@ -5,7 +5,10 @@ site_author: Dionisio Cortés Fernández
 site_url: https://github.com/dionisioC/wikisio
 nav:
   - Introduction: index.md
-
+  - OS:
+      - Arch:
+          - SSH:
+              - os/arch/ssh/config_ssh_key_keyring_arch_i3.md
 plugins:
   - search
   - autolinks
@@ -42,6 +45,15 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+  - codehilite
+  - pymdownx.highlight:
+      use_pygments: true
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
 theme:
   name: material
   custom_dir: theme
