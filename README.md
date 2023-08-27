@@ -1,6 +1,7 @@
 # [Wikisio](https://dionisioC.github.io/wikisio)
 
-This is my personal wiki where I share what I learn in form of an [online mkdocs book](https://www.mkdocs.org/) hosted on
+This is my personal wiki where I share what I learn in form of an [online
+mkdocs book](https://www.mkdocs.org/) hosted on
 [GitHub](https://github.com/dionisioC/wikisio).
 
 **The wiki is meant to be read [in the web format](https://dionisioC.github.io/wikisio).**
@@ -14,4 +15,5 @@ request, if you don't know what that means, you can always open an
 
 ## Thanks
 
-The skeleton of the wiki has been taken from [The Blue Book](https://github.com/lyz-code/blue-book) 
+The skeleton of the wiki has been taken from [The Blue
+Book](https://github.com/lyz-code/blue-book)
