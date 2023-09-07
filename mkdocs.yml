@@ -5,8 +5,12 @@ site_author: Dionisio Cortés Fernández
 site_url: https://github.com/dionisioC/wikisio
 nav:
   - Introduction: index.md
+  - TODO: TODO.md
+  - Coding:
+      - NestJs:
+          - Architecture: coding/nestJs/arch/nestjs_arch.md
   - OS:
-      - Arch:
+      - Arch linux:
           - SSH:
               - os/arch/ssh/config_ssh_key_keyring_arch_i3.md
 plugins:
