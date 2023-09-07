@@ -6,9 +6,6 @@ site_url: https://github.com/dionisioC/wikisio
 nav:
   - Introduction: index.md
   - TODO: TODO.md
-  - Coding:
-      - NestJs:
-          - Architecture: coding/nestJs/arch/nestjs_arch.md
   - OS:
       - Arch linux:
           - SSH:
