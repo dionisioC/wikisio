@@ -10,6 +10,9 @@ nav:
       - Arch linux:
           - SSH:
               - os/arch/ssh/config_ssh_key_keyring_arch_i3.md
+  - Coding:
+      - JavaScript / TypeScript:
+          - Express: coding/express/rest_api_with_express.md
 plugins:
   - search
   - autolinks
