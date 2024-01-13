@@ -2,27 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/dionisioC/wikisio/</loc>
-         <lastmod>2023-12-29</lastmod>
+         <lastmod>2024-01-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/dionisioC/wikisio/TODO/</loc>
-         <lastmod>2023-12-29</lastmod>
+         <lastmod>2024-01-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/dionisioC/wikisio/coding/express/rest_api_with_express/</loc>
-         <lastmod>2023-12-29</lastmod>
+         <lastmod>2024-01-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/dionisioC/wikisio/coding/tooling/localstack_DynamoDb/</loc>
+         <lastmod>2024-01-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/dionisioC/wikisio/coding/tooling/podman/</loc>
-         <lastmod>2023-12-29</lastmod>
+         <lastmod>2024-01-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/dionisioC/wikisio/os/arch/ssh/config_ssh_key_keyring_arch_i3/</loc>
-         <lastmod>2023-12-29</lastmod>
+         <lastmod>2024-01-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
