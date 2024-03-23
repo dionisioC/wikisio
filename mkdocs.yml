@@ -17,6 +17,8 @@ nav:
           - Podman: coding/tooling/podman.md
           - Localstack:
               - DynamoDb: coding/tooling/localstack_DynamoDb.md
+          - Maven:
+              - Versions plugin: coding/tooling/maven/maven_versions_plugin.md
 plugins:
   - search
   - autolinks
